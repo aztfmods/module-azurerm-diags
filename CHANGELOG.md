@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/aztfmods/module-azurerm-diags/compare/v1.0.0...v1.0.1) (2022-09-20)
+
+
+### Bug Fixes
+
+* remove provider config ([fcc9af8](https://github.com/aztfmods/module-azurerm-diags/commit/fcc9af85c85e310f10ce5bd8dcb7e63168cdd986))
+
 ## 1.0.0 (2022-09-20)
 
 
